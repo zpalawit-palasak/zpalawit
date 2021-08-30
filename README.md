@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palawitEG
-- 👀 I’m interested in data engineer
-- 🌱 I’m currently learning data engineer
+- 👀 I’m interested in data technology and enthusiastic to learn. 
+- 🌱 Presently Data Engineer in financial industry.
 - 📫 How to reach me p.palawit@gmail.com
 
 <!---

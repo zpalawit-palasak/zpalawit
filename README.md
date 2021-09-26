@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @palawitEG
+- 👋 Hi, My name is Palawit Palasak and you can call me Ben.
 - 👀 I’m interested in data technology and enthusiastic to learn. 
 - 🌱 Presently Data Engineer in financial industry.
 - 📫 How to reach me p.palawit@gmail.com
